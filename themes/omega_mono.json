@@ -2,127 +2,127 @@
     "name": "Omega Monochrome",
     "icons": "omega_mono",
     "colors": {
-        "PrimaryText": "00AF14",
-        "SecondaryText": "005400",
-        "AccentText": "00FF41",
-        "ApproximateSignText": "005400",
-        "ApproximateExpressionText": "005400",
+        "PrimaryText": "00AF00",
+        "SecondaryText": "007000",
+        "AccentText": "00FF00",
+        "ApproximateSignText": "007000",
+        "ApproximateExpressionText": "007000",
         "Background": {
             "Hard": "000000",
             "Apps": "000000",
             "AppsSecondary": "000A00"
         },
         "Toolbar": {
-            "": "00AF14",
+            "": "00AF00",
             "Text": "000000"
         },
         "ExpressionInput": {
-            "Background": "0D2818",
-            "Border": "00AF14"
+            "Background": "002800",
+            "Border": "00AF00"
         },
         "Grid": {
-            "PrimaryLine": "00AF14",
-            "SecondaryLine": "0D2818"
+            "PrimaryLine": "00AF00",
+            "SecondaryLine": "002800"
         },
         "Battery": {
-            "": "00AF14",
-            "InCharge": "00FF41",
+            "": "000000",
+            "InCharge": "007000",
             "Low": "992321"
         },
         "ScrollBar": {
-            "Foreground": "00AF14",
-            "Background": "0D2818"
+            "Foreground": "00AF00",
+            "Background": "002800"
         },
         "Control": {
-            "": "00FF41",
-            "Enabled": "00FF41",
-            "Disabled": "005400"
+            "": "00FF00",
+            "Enabled": "00FF00",
+            "Disabled": "007000"
         },
         "Calculation": {
             "BackgroundOdd": "000A00",
             "BackgroundEven": "000000",
-            "EmptyBox": "0D2818",
-            "EmptyBoxNeeded": "00FF41"
+            "EmptyBox": "002800",
+            "EmptyBoxNeeded": "00FF00"
         },
         "Code": {
             "Background": "000000",
-            "BackgroundSelected": "0D2818",
-            "Text": "00AF14",
-            "Comment": "005400",
+            "BackgroundSelected": "002800",
+            "Text": "00AF00",
+            "Comment": "007000",
             "Number": "009999",
             "Keyword": "ff000c",
             "Operator": "d73a49",
             "String": "032f62"
         },
         "Probability": {
-            "Curve": "00FF41",
+            "Curve": "00FF00",
             "CellBorder": "000A00",
-            "HistogramBar": "005400"
+            "HistogramBar": "007000"
         },
         "Statistics": {
-            "Box": "00FF41",
-            "BoxVerticalLine": "005400",
-            "Selected": "00FF41",
-            "NotSelected": "0D2818"
+            "Box": "00FF00",
+            "BoxVerticalLine": "007000",
+            "Selected": "00FF00",
+            "NotSelected": "002800"
         },
         "Graph": {
-            "Tangent": "00FF41"
+            "Tangent": "00FF00"
         },
         "SubMenu": {
-            "Background": "0D2818",
-            "Border": "00AF14",
-            "Text": "00AF14"
+            "Background": "002800",
+            "Border": "00AF00",
+            "Text": "00AF00"
         },
         "Toolbox": {
-            "HeaderBackground": "00AF14",
+            "HeaderBackground": "00AF00",
             "HeaderText": "000000",
             "HeaderBorder": "000A00",
-            "Background": "0D2818"
+            "Background": "002800"
         },
         "List": {
             "CellBackground": "000A00",
-            "CellBackgroundSelected": "0D2818",
-            "CellBorder": "00AF14"
+            "CellBackgroundSelected": "002800",
+            "CellBorder": "002800"
         },
         "Button": {
             "Background": "000A00",
-            "BackgroundSelected": "0D2818",
-            "BackgroundSelectedHighContrast": "0D2818",
-            "Border": "00AF14",
-            "RowBorder": "00AF14",
+            "BackgroundSelected": "002800",
+            "BackgroundSelectedHighContrast": "002800",
+            "Border": "002800",
+            "RowBorder": "002800",
             "BorderOut": "000000",
-            "Shadow": "00AF14",
-            "Text": "00AF14"
+            "Shadow": "00AF00",
+            "Text": "00AF00"
         },
         "Tab": {
-            "Background": "00AF14",
-            "BackgroundSelected": "005400",
+            "Background": "00AF00",
+            "BackgroundSelected": "007000",
             "BackgroundActive": "000000",
-            "BackgroundSelectedAndActive": "0D2818",
+            "BackgroundSelectedAndActive": "002800",
             "Text": "000000",
-            "TextActive": "00AF14"
+            "TextActive": "00AF00"
         },
         "SubTab": {
             "Background": "000A00",
-            "BackgroundSelected": "0D2818",
-            "Text": "00AF14"
+            "BackgroundSelected": "002800",
+            "Text": "00AF00"
         },
         "Banner": {
-            "FirstBackground": "00AF14",
-            "FirstBorder": "005400",
+            "FirstBackground": "00AF00",
+            "FirstBorder": "007000",
             "FirstText": "000000",
-            "FirstVariantBackground": "0D2818",
+            "FirstVariantBackground": "002800",
             "FirstVariantBorder": "000A00",
-            "FirstVariantText": "00AF14",
-            "SecondBackground": "0D2818",
+            "FirstVariantText": "00AF00",
+            "SecondBackground": "002800",
             "SecondBorder": "000A00",
-            "SecondText": "00AF14"
+            "SecondText": "00AF00"
         },
         "Home": {
             "Background": "000000",
             "CellBackground": "000000",
-            "CellBackgroundActive": "00AF14",
-            "CellText": "00AF14",
+            "CellBackgroundActive": "00AF00",
+            "CellText": "00AF00",
             "CellTextActive": "000000"
         },
         "Atom": {
@@ -138,7 +138,7 @@
             "Halogen": "00debd",
             "ReactiveNonmetal": "00ee00",
             "NobleGas": "8baaff",
-            "TableLines": "005400"
+            "TableLines": "007000"
         }
     }
 }
